@@ -1,5 +1,5 @@
 # Проектный Хакатон MIFIML команды Space Plans
-
+![My Image](space_plans.jpg)
 ## Вводные данные
 **Название команды:** Space plans
 
