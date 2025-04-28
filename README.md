@@ -83,3 +83,5 @@
 ```python
 docker compose build
 docker compose up -d
+```
+После чего приложение будет доступно по localhost в браузере.
