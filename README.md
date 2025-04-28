@@ -78,7 +78,8 @@
     * Приложить инструкцию как её запускать через Докер
     * Приложить интересные графики из EDA и скрины работы вашего приложения
 
-**Установка**
-В папке docker необходимо выполнить команды:
-    docker compose build
-    docker compose up -d
+## Установка
+
+```python
+docker compose build
+ docker compose up -d
